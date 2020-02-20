@@ -51,7 +51,7 @@ namespace Demo_App
 
         private void Next_Clicked(object sender, EventArgs e)
         {
-            if(count == 12)
+            if(count == 11)
             {
                 count = -1;
             }
