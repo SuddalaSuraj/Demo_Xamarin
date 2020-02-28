@@ -55,6 +55,7 @@ C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\Syst
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\System.ServiceModel.Internals.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\Demo_App.dll.mdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\Demo_App.Android.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -77,7 +78,6 @@ C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\l
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\System.ServiceModel.Internals.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\System.Web.Services.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\Mono.Security.pdb
-C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\Demo_App.dll.mdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\Demo_App.dll.mdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\android\assets\Demo_App.dll.mdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\android\assets\Demo_App.Android.pdb
@@ -102,4 +102,6 @@ C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\a
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App\bin\Debug\netstandard2.0\Demo_App.dll
+C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\bin\Debug\Demo_App.dll.mdb
 C:\Users\Suraj\Desktop\Me\Demo\Demo_App\Demo_App\Demo_App.Android\obj\Debug\81\linksrc\Demo_App.dll.mdb

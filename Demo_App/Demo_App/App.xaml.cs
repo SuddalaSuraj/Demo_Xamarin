@@ -11,7 +11,7 @@ namespace Demo_App
         {
             InitializeComponent();
 
-            MainPage = new GalleryPage();
+            MainPage = new NavigationPage(new PlaylistListView());
         }
 
         protected override void OnStart()

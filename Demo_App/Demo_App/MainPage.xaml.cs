@@ -13,7 +13,6 @@ namespace Demo_App
         {
             InitializeComponent();
         }
-
         private void Button_Clicked(object sender, EventArgs e)
         {
 
